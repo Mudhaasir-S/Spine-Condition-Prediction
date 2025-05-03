@@ -26,4 +26,4 @@ All code is in `Spine Condition Prediction.ipynb`. You can clone and run it usin
 
 📂 Author: *Mudhassir S*
 
-🔗 Connect: [LinkedIn Profile]((https://www.linkedin.com/in/mudhassir-s/))
+🔗 Connect: [LinkedIn Profile](https://www.linkedin.com/in/mudhassir-s/)
